@@ -104,10 +104,6 @@ countdown-timer/
 - Make the timer responsive for different screen sizes.
 - Allow users to customize the countdown target date.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 Enjoy counting down to the New Year! 🎆
