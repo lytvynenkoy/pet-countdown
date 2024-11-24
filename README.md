@@ -9,10 +9,6 @@ This is a simple countdown timer project that counts down the days, hours, minut
 - Updates every second to show the remaining time until New Year.
 - Includes a preloader that hides after the initial page load.
 
-## Demo
-
-You can view the project in action [here](#). (Replace `#` with your deployment link if available)
-
 ## Tech Stack
 
 - **HTML**: Structure of the application.
